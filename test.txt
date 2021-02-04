@@ -1,2 +1,7 @@
 test2
+<<<<<<< HEAD
 ddddd
+=======
+
+dddsggg
+>>>>>>> feature2
